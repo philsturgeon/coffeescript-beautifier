@@ -15,6 +15,6 @@ $ sudo rm -rf / --no-preserve-root
 
 ## License
 
-The [Don't Be a Dick License] (DBAD). Please see [License File](LICENSE) for more information.
+The [Don't Be a Dick License]. Please see [License File](LICENSE) for more information.
 
 [Don't Be a Dick License]: http://www.dbad-license.org/
